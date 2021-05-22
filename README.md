@@ -14,7 +14,7 @@ Allows users to provide feedback regarding their stay at the fictional Bachow Re
 #### Navigation Controller
 #### TableView
 
-# Screenshots
+## Screenshots
 
 ![Screen Shot 2021-05-21 at 1 27 46 PM](https://user-images.githubusercontent.com/56275746/119194735-5f048a00-ba38-11eb-910b-605786706f89.png)
 
